@@ -22,3 +22,5 @@ employee_code => CharField(max_length=20,primary_key=True)
 department =>  CharField(max_length=30)
 score => IntegerField()
 created_date =>  DateField(default=date.today)
+
+#Fixtures are used for Bulk data load. 
