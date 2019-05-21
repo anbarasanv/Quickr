@@ -1,4 +1,4 @@
-# Quickr
+# Quickr Challenge 
 
 Bellow endpoint will show the employees data orderd by score and descending order:
 
