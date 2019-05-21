@@ -18,7 +18,7 @@ Table Structure:
 
 #fields:
 
-   employee_code => CharField(max_length=20,primary_key=True)
-   department =>  CharField(max_length=30)
-   score => IntegerField()
-   created_date =>  DateField(default=date.today)
+employee_code => CharField(max_length=20,primary_key=True)
+department =>  CharField(max_length=30)
+score => IntegerField()
+created_date =>  DateField(default=date.today)
